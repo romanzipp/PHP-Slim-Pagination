@@ -1,5 +1,5 @@
 # PHP Slim Pagination
-Example pagination for (https://github.com/slimphp/Slim)[slimphp/Slim]. No extra classes needed.
+Example pagination for [slimphp/Slim](slimphp/Slim)[slimphp/Slim]. No extra classes needed.
 
 In this exmaple I used the (https://github.com/slimphp/Slim)[PHP Slim] framework with Twig view templates. As fronted framework (https://github.com/Semantic-Org/Semantic-UI)[Semantic-UI] is used.
 The shown scenarion is listing Blog posts.
